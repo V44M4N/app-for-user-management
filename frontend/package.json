@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "homepage": "https://v44m4n.github.io/app-for-user-management",
+  "homepage": "https://v44m4n.github.io/app-for-user-management/",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
