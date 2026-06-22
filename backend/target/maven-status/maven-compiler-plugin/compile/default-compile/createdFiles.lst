@@ -1,0 +1,7 @@
+com/example/usermanagement/UserManagementApplication.class
+com/example/usermanagement/AuditLog.class
+com/example/usermanagement/UserService.class
+com/example/usermanagement/BulkUserStatusRequest.class
+com/example/usermanagement/UserNotFoundException.class
+com/example/usermanagement/User.class
+com/example/usermanagement/UserController.class
