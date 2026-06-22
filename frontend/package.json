@@ -1,17 +1,20 @@
 {
   "private": true,
   "type": "module",
+  "homepage": "https://v44m4n.github.io/app-for-user-management-react-java",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.3",
     "vite": "^5.4.10",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "lucide-react": "^0.468.0"
+    "lucide-react": "^0.4.68"
   },
   "devDependencies": {}
 }
